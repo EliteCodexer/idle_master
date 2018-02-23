@@ -25,12 +25,12 @@ namespace IdleMaster
       if (ApplicationDeployment.IsNetworkDeployed)
       {
         var version = ApplicationDeployment.CurrentDeployment.CurrentVersion.ToString();
-        lblVersion.Text = "Idle Master v" + version;
+        lblVersion.Text = "Steamer v" + version;
       }
       else
       {
         var version = Assembly.GetExecutingAssembly().GetName().Version.ToString();
-        lblVersion.Text = "Idle Master v" + version;
+        lblVersion.Text = "Steamer v" + version;
       }
     }
   }
