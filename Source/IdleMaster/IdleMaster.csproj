@@ -7,8 +7,8 @@
     <ProjectGuid>{D26CAFBB-F684-4E53-BE38-60AAD2531893}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IdleMaster</RootNamespace>
-    <AssemblyName>IdleMaster</AssemblyName>
+    <RootNamespace>Steamer</RootNamespace>
+    <AssemblyName>Steamer</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -25,7 +25,7 @@
     <MapFileExtensions>false</MapFileExtensions>
     <InstallUrl>http://www.steamidlemaster.com/install/</InstallUrl>
     <ApplicationRevision>0</ApplicationRevision>
-    <ApplicationVersion>1.4.1.%2a</ApplicationVersion>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
