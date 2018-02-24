@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("steam-idle")]
+[assembly: AssemblyTitle("Steamer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("CodexGamers")]
-[assembly: AssemblyProduct("steam-idle")]
+[assembly: AssemblyProduct("Steamer")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("95f5c803-be44-47da-9eea-46e6b2fd8ef3")]
+[assembly: Guid("351d8228-4284-4c00-9526-7039b81b771b")]
 
 // Version information for an assembly consists of the following four values:
 //
